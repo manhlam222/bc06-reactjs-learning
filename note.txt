@@ -1,0 +1,18 @@
+1/ cài đặt project :
+  npx create-react-app ten-app
+2/ chạy project :
+  2.1/ mở terminal ngay tại file package.json
+  2.2/ gõ lệnh : npm run start
+3/ tài liệu về reactjs : https://reactjs.org/docs/getting-started.html
+4/ flow code reactjs: index.html => index.js => App.js
+5/ react js sẽ không hiểu html, nó chỉ hiểu jsx
+6/ lí do dùng component là dễ quản lý và tái sử dụng
+7/ điều kiện để tạo ra component là dễ quản lý và tái sử dụng
+
+bonus :
+1/ một webside thường có 2 dạng :
+  - single page application ( chuyễn trang mà ko bị load )
+  - multiple page application (chuyễn trang mà bị load)
+2/ về SEO thì multiple page application tốt hơn single page application
+3/ reactjs (single page application) thì ko SEO tốt nhưng
+ NEXTJS (https://nextjs.org/) giúp reactjs SEO tốt hơn
